@@ -1,6 +1,6 @@
 {
-  "name": "TamiliGram: Tamil-English AI Translator",
-  "description": "A real-time Tamil-to-English translator and English grammar corrector powered by Gemini AI.",
+  "name": "RICA: AI Neural Translator",
+  "description": "RICA: A futuristic real-time Tamil-English neural translator powered by Gemini AI.",
   "requestFramePermissions": ["microphone"],
   "majorCapabilities": []
 }
